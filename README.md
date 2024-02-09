@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw2H5cnaq1YIuIqRKJHl8Ltg&ust=1707566447496000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiM7-2anoQDFQAAAAAdAAAAABAE)" alt="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="Downloads" alt="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
