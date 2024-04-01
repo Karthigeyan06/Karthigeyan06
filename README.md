@@ -1,3 +1,4 @@
+<center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center>
 <h1 align="center">Hi 👋, I'm Karthigeyan</h1>
 <h3 align="center">Techie | ECE student</h3>
 
