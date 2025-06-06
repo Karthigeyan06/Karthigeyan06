@@ -1,6 +1,6 @@
 <center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center>
 
-<h3 align="center">Techie | ECE student</h3>
+<h3 align="center">Embedded Systems & IoT, Robotics Enthusiast | Developing Expertise in VLSI, Python, Verilog, IoT, & FPGA | Techie | ECE student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
