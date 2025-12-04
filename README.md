@@ -1,25 +1,21 @@
-<center>
-  <img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" style="width:300px; height:auto;">
-</center>
+<div align="center">
+  <img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" alt="Header Image" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left" style="display:flex; gap:15px; align-items:center;">
-  
+### <h3 align="left">Connect with me:</h3>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" 
-         alt="LinkedIn" 
-         width="40" height="40" 
-         style="object-fit:contain;">
+         alt="LinkedIn" height="40" width="40" />
   </a>
 
   <a href="https://www.hackster.io/karthigeyanganesan06" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" 
-         alt="Hackster" 
-         width="40" height="40" 
-         style="object-fit:contain;">
+         alt="Hackster.io" height="40" width="40" />
   </a>
-
 </p>
 
 
