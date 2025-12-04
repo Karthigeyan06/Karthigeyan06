@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank">
-    <img align="center" 
+    <img align="left" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          height="40" width="40" 
          style="margin-right: 500px;" />
