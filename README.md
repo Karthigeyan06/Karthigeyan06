@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" height="40" width="40" /></a>
 
-<a href="https://www.hackster.io/karthigeyanganesan06" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackster.io%2Fbranding&psig=AOvVaw27dUphUF22nBOKihmY2FSQ&ust=1764913078432000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjd2N6bo5EDFQAAAAAdAAAAABAE" alt="https://www.hackster.io/karthigeyanganesan06" height="40" width="40" /></a>
+<a href="https://www.hackster.io/karthigeyanganesan06" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhacksterio&psig=AOvVaw1wifbGqwmyvq-Hpmc6K48_&ust=1764913435701000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjyp4qdo5EDFQAAAAAdAAAAABAE" alt="https://www.hackster.io/karthigeyanganesan06" height="40" width="40" /></a>
 
 </p>
 
