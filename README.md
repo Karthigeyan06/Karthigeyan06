@@ -1,9 +1,12 @@
 <center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" height="40" width="40" /></a>
+
+<a href="https://www.hackster.io/karthigeyanganesan06" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackster.io%2Fbranding&psig=AOvVaw27dUphUF22nBOKihmY2FSQ&ust=1764913078432000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjd2N6bo5EDFQAAAAAdAAAAABAE" alt="https://www.hackster.io/karthigeyanganesan06" height="40" width="40" /></a>
+
 </p>
 
 <!--h3 align="left">Languages and Tools:</h3>
