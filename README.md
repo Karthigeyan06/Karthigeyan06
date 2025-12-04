@@ -18,7 +18,7 @@
          style="margin-right: 50px;" />
   </a>
 
-   <a href="https://www.hackster.io/karthigeyanganesan06" target="blank">
+   <a href="https://karthigeyan06.github.io/Portfolio/" target="blank">
     <img align="center" 
          src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/7867852.png"
          height="55" width="55" 
