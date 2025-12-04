@@ -6,12 +6,8 @@
 
 ### <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" 
-         alt="LinkedIn" height="50" width="50" />
-  </a>
-
+<a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-balaji-2a1965200" height="30" width="40" /></a>
+  
   <a href="https://www.hackster.io/karthigeyanganesan06" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" 
          alt="Hackster.io" height="40" width="40" />
