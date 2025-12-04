@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" 
-         alt="LinkedIn" height="40" width="40" />
+         alt="LinkedIn" height="50" width="50" />
   </a>
 
   <a href="https://www.hackster.io/karthigeyanganesan06" target="_blank">
