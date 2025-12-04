@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" alt="Header Image" />
-</div>
+
 
 
 <center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" height="40" width="40" /></a> <a href="https://www.hackster.io/karthigeyanganesan06" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" height="40" width="40" /></a> </p>
