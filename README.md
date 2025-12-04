@@ -1,7 +1,24 @@
 
 
 
-<center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" height="40" width="40" /></a> <a href="https://www.hackster.io/karthigeyanganesan06" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" height="40" width="40" /></a> </p>
+<center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center> <h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         height="40" width="40" 
+         style="margin-right: 20px;" />
+  </a>
+
+  <a href="https://www.hackster.io/karthigeyanganesan06" target="blank">
+    <img align="center" 
+         src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" 
+         height="40" width="40" 
+         style="margin-right: 20px;" />
+  </a>
+</p>
+
 
 <!--h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/Karthigeyan06/CtrlLED-Arduino" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/RockPaperScissor" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/USensor_Ctrl-Arduino" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/Website-Frontend" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/Website-Frontend" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/PyBank" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/PyBank" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/MoonPhaseInsight" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://github.com/Karthigeyan06/MoonPhaseInsight" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" alt="opencv" width="40" height="40"/> </a></p>
