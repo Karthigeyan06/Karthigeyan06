@@ -15,13 +15,13 @@
     <img align="center" 
          src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" 
          height="40" width="40" 
-         style="margin-right: 30px;" />
+         style="margin-right: 50px;" />
   </a>
 
    <a href="https://www.hackster.io/karthigeyanganesan06" target="blank">
     <img align="center" 
          src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/7867852.png"
-         height="50" width="50" 
+         height="55" width="55" 
          style="margin-right: 30px;" />
   </a>
 </p>
