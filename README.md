@@ -8,7 +8,7 @@
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          height="40" width="40" 
-         style="margin-right: 20px;" />
+         style="margin-right: 50px;" />
   </a>
 
   <a href="https://www.hackster.io/karthigeyanganesan06" target="blank">
