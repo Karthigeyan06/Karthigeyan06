@@ -3,28 +3,22 @@
 
 <center><img src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/20240401_143638_0000.png" ></center> <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="blank">
-    <img align="left" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         height="40" width="40" 
-         style="margin-right: 500px;" />
+<p align="left" style="font-size: 16px; font-weight: 500;">
+  <a href="https://www.linkedin.com/in/karthigeyan-ganesan-203066257" target="_blank">
+    <b>LinkedIn</b>
   </a>
+  &nbsp; | &nbsp;
 
-  <a href="https://www.hackster.io/karthigeyanganesan06" target="blank">
-    <img align="center" 
-         src="https://avatars.githubusercontent.com/u/15824754?s=200&v=4" 
-         height="40" width="40" 
-         style="margin-right: 50px;" />
+  <a href="https://www.hackster.io/karthigeyanganesan06" target="_blank">
+    <b>Hackster</b>
   </a>
+  &nbsp; | &nbsp;
 
-   <a href="https://karthigeyan06.github.io/Portfolio/" target="blank">
-    <img align="center" 
-         src="https://github.com/Karthigeyan06/Karthigeyan06/blob/main/7867852.png"
-         height="55" width="55" 
-         style="margin-right: 30px;" />
+  <a href="https://karthigeyan06.github.io/Portfolio/" target="_blank">
+    <b>Portfolio</b>
   </a>
 </p>
+
 
 
 <!--h3 align="left">Languages and Tools:</h3>
